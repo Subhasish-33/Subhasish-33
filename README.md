@@ -33,7 +33,7 @@ I am an authentic, adaptive AI collaborator building high-performance systems wh
 ---
 
 ### 🔧 Technical Arsenal
-* ML Frameworks:** PyTorch, Hugging Face, Scikit-learn, XGBoost
-* GenAI:** FAISS, LangChain, Sentence-Transformers, RAGAS
-* Optimization:** ONNX, INT8 Quantization, FastAPI
-* Probabilistic:** PyMC, SciPy Stats, Bayesian Sequential Analysis
+* ML Frameworks: PyTorch, Hugging Face, Scikit-learn, XGBoost
+* GenAI: FAISS, LangChain, Sentence-Transformers, RAGAS
+* Optimization: ONNX, INT8 Quantization, FastAPI
+* Probabilistic: PyMC, SciPy Stats, Bayesian Sequential Analysis
